@@ -32,7 +32,7 @@ Explore the code and methodology in the [Google Colab Notebook](https://colab.re
    - Tuned hyperparameters with GridSearchCV to optimize recall and F1 score.
 
 3. **Deployment**: 
-   - Built a Streamlit app for real-time churn predictions, processing user inputs through the full pipeline to deliver customer-specific churn probabilities.
+   - Built a Streamlit app for churn predictions, processing user inputs through the full pipeline to deliver customer-specific churn probabilities.
 
 ---
 
